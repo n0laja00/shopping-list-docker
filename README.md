@@ -37,7 +37,6 @@ When successfull, you'll see the following:
 
 And can access localhost:7777 to see: 
 
-![image](https://user-images.githubusercontent.com/73889850/192112332-a794f9b1-9879-4cb8-9722-1e57f10e89a3.png)
-
+![image](https://user-images.githubusercontent.com/73889850/192142816-aeaf2edc-93ed-4351-a42b-2beacdb385b8.png)
 
 To see the application in action, visit Heroku at: https://n0laja00-shopping-list-app.herokuapp.com/
